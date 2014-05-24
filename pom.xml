@@ -1,0 +1,17 @@
+<project>
+
+    <modelVersion>4.0.0</modelVersion>
+    <name>BrickPi</name>
+    <groupId>com.ergotech</groupId>
+    <artifactId>BrickPi</artifactId>
+    <version>0.1-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.pi4j</groupId>
+            <artifactId>pi4j-core</artifactId>
+            <version>0.0.5</version>
+        </dependency>
+    </dependencies>
+
+</project>
